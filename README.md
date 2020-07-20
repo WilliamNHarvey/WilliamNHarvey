@@ -1,16 +1,18 @@
-### Hi there 👋
+### William N Harvey
 
-<!--
-**WilliamNHarvey/WilliamNHarvey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Find me at [williamnharvey.com](https://williamnharvey.com)
+Or on my [LinkedIn](https://www.linkedin.com/in/williamnharvey/)
 
-Here are some ideas to get you started:
+🧳 Ontario ➡️ SF
+📧 williamnharvey@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+♟️ 🎹 🎸
+
+#### 💻 Projects
+
+Try [**Buzzy Work**](https://apps.apple.com/us/app/buzzy-work/id1511346895) on iOS or iPadOS
+Or check out [**PillPals**](https://play.google.com/store/apps/details?id=com.pillpals.pillpals&hl=en_US) on Google Play
+
+#### 🌁 Work
+
+Working at [**Doximity**](https://github.com/doximity) in SWAT
