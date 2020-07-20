@@ -1,9 +1,15 @@
 ### William N Harvey
 
 🔭 Find me at [williamnharvey.com](https://williamnharvey.com)
+
 Or on my [LinkedIn](https://www.linkedin.com/in/williamnharvey/)
 
-🧳 Ontario ➡️ SF
+---
+
+🏠 Ontario
+
+🧳 SF
+
 📧 williamnharvey@gmail.com
 
 ♟️ 🎹 🎸
