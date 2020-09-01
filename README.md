@@ -1,5 +1,7 @@
 ### William N Harvey
 
+![Rotating Small Triambic Icosahedron](/gif.gif =250x250)
+
 🔭 Find me at [williamnharvey.com](https://williamnharvey.com)
 
 🔎 Or on my [LinkedIn](https://www.linkedin.com/in/williamnharvey/)
