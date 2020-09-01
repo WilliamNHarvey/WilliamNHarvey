@@ -1,6 +1,8 @@
-### William N Harvey
+### WilliamNHarvey
 
 <img src="https://github.com/WilliamNHarvey/WilliamNHarvey/blob/main/gif.gif" alt="Rotating Small Triambic Icosahedron" width="200" height="200" />
+
+---
 
 🔭 Find me at [williamnharvey.com](https://williamnharvey.com)
 
