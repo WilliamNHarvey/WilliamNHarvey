@@ -1,6 +1,6 @@
 ### William N Harvey
 
-![Rotating Small Triambic Icosahedron](/gif.gif =250x250)
+![Rotating Small Triambic Icosahedron](/gif.gif)
 
 🔭 Find me at [williamnharvey.com](https://williamnharvey.com)
 
