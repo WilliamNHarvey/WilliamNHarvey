@@ -4,6 +4,10 @@
 
 ---
 
+![Dev Time Card](https://github-readme-stats.vercel.app/api/wakatime?username=WilliamNHarvey&custom_title=Last%20Week%27s%20Dev%20Time&theme=onedark&border_radius=30&langs_count=10)
+
+---
+
 🔭 Find me at [williamnharvey.com](https://williamnharvey.com)
 
 🔎 Or on my [LinkedIn](https://www.linkedin.com/in/williamnharvey/)
