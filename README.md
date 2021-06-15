@@ -30,4 +30,4 @@ Or check out [💊 **PillPals**](https://play.google.com/store/apps/details?id=c
 
 #### 🌁 Work
 
-Working at [🧑‍⚕️⚕️ **Doximity**](https://github.com/doximity) in SWAT
+Working at [🏥 **Doximity**](https://github.com/doximity) in SWAT
