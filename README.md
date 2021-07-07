@@ -4,7 +4,7 @@
 
 ---
 
-![Dev Time Card](https://github-readme-stats.vercel.app/api/wakatime?username=WilliamNHarvey&custom_title=Last%202%20Week%27s%20Dev%20Time&theme=onedark&border_radius=30&langs_count=10&hide_border=true)
+![Dev Time Card](https://github-readme-stats.vercel.app/api/wakatime?username=WilliamNHarvey&custom_title=Last%20Week%27s%20Dev%20Time&theme=onedark&border_radius=30&langs_count=10&hide_border=true&range=last_7_days)
 
 ---
 
