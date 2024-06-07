@@ -35,3 +35,7 @@ Working at [🏥 **Doximity**](https://github.com/doximity) in Core Identity. I 
 ---
 
 ![](https://komarev.com/ghpvc/?username=WilliamNHarvey&color=blueviolet)
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.3; background: url('https://github.com/WilliamNHarvey/WilliamNHarvey/assets/16828043/3abb97d2-6dc4-483d-ade4-3aec88f71147');]{x0000}$}
+
