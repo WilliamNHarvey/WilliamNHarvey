@@ -22,15 +22,9 @@
 
 ♟️ 🎹 🎸
 
-#### 💻 Projects
-
-Try [🐝 **Buzzy Work**](https://apps.apple.com/us/app/buzzy-work/id1511346895) on iOS or iPadOS
-
-Or check out [💊 **PillPals**](https://play.google.com/store/apps/details?id=com.pillpals.pillpals&hl=en_US) on Google Play
-
 #### 🌁 Work
 
-Working at [🏥 **Doximity**](https://github.com/doximity) in Core Identity. I do a lot of work on authorization systems.
+Working at [🏥 **Doximity**](https://github.com/doximity) in IAM. I do a lot of work on authorization systems.
 
 ---
 
