@@ -4,10 +4,6 @@
 
 ---
 
-![Dev Time Card](https://github-readme-stats.vercel.app/api/wakatime?username=WilliamNHarvey&custom_title=Last%20Week%27s%20Dev%20Time&theme=onedark&border_radius=30&langs_count=10&hide_border=true&range=last_7_days)
-
----
-
 🔭 Find me at [williamnharvey.com](https://williamnharvey.com)
 
 🔎 Or on my [LinkedIn](https://www.linkedin.com/in/williamnharvey/)
@@ -24,12 +20,8 @@
 
 #### 🌁 Work
 
-Working at [🏥 **Doximity**](https://github.com/doximity) in IAM. I do a lot of work on authorization systems.
+Working at [🏥 **Doximity**](https://github.com/doximity) in IAM and agentic infra. I do a lot of work on authorization systems.
 
 ---
 
 ![](https://komarev.com/ghpvc/?username=WilliamNHarvey&color=blueviolet)
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.3; background: url('https://github.com/WilliamNHarvey/WilliamNHarvey/assets/16828043/3abb97d2-6dc4-483d-ade4-3aec88f71147');]{x0000}$}
-
